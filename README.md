@@ -1,3 +1,3 @@
-- 🌱 I’m currently learning js
-- 📫 How to reach me: Leqked#1337
+- 🌱 I’m currently learning js and more py
+- 📫 How to reach me: Leqked#1337 on discord
 - ⚡ Fun fact: your gay
