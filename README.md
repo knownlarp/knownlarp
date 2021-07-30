@@ -1,5 +1,3 @@
-Discord: Leqked#1337
-
 ![sosa](https://komarev.com/ghpvc/?username=Leqked&style=flat-square&color=red) <br>
 [![stats](https://github-readme-stats.vercel.app/api?username=Leqked&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
 <br>
