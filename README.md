@@ -1,10 +1,10 @@
-![sosa](https://komarev.com/ghpvc/?username=Leqked&style=flat-square&color=red) <br>
-[![stats](https://github-readme-stats.vercel.app/api?username=Leqked&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
-<br>
-
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/602693926947651595.png" alt="Leqked#1337" />
 </p>
+
+![sosa](https://komarev.com/ghpvc/?username=Leqked&style=flat-square&color=red) <br>
+[![stats](https://github-readme-stats.vercel.app/api?username=Leqked&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+<br>
 
 <img src="https://discordapp.com/api/guilds/749719977313042463/widget.png?style=banner1" alt="Sosa"/>
 
