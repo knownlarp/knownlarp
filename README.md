@@ -5,9 +5,9 @@ class Leqked(ReadMe):
     "/Leqked/Leqked/README.md"
 
     def __init__(self):
-        self.username = "Leqked"
+        self.username = "Leqked/Jerry/Sleep Walking"
         self.contacts = {
-            "Discord": "Leqked#1337",
+            "Discord": "Jеrry#1500",
             "Telegram": "Leqked"
         }
         self.alises = [
@@ -19,7 +19,7 @@ class Leqked(ReadMe):
         self.occupation = "Intermediate Python Developer"
         self.projects = {
             "public": {
-                  "total": 4,
+                  "total": 5,
                   "location": "github.com/Leqked?tab=repositories"
             }
 ```
