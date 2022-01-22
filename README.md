@@ -5,9 +5,9 @@ class Leqked(ReadMe):
     "/Leqked/Leqked/README.md"
 
     def __init__(self):
-        self.username = "Leqked/Jerry/Sleep Walking"
+        self.username = "Leqked or Jerry"
         self.contacts = {
-            "Discord": "Jеrry#1500",
+            "Discord": "Leqked#1337",
             "Telegram": "Leqked"
         }
         self.alises = [
