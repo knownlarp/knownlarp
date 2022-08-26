@@ -5,18 +5,19 @@ class Leqked(ReadMe):
     "/Leqked/Leqked/README.md"
 
     def __init__(self):
-        self.username = "Leqked or Jerry"
+        self.username = "Leqked or xzc"
         self.contacts = {
-            "Discord": "Leqked#1337",
-            "Telegram": "Leqked"
+            "Discord": "xzc#1337",
+            "Telegram": "pourinWock"
         }
         self.alises = [
             "Jerry#1500",
-            "Jerry#7000"
+            "Jerry#7000",
+            "Leqked#1337"
         ]
         self.location = "Unknown"
         self.age = "Unknown"
-        self.occupation = "Intermediate Python Developer"
+        self.occupation = "Python Developer"
         self.projects = {
             "public": {
                   "total": 5,
