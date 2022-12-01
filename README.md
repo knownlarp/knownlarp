@@ -8,7 +8,7 @@ class Leqked(ReadMe):
         self.username = "setinal or Leqked"
         self.contacts = {
             "Discord": "setinal#1337",
-            "Telegram": "t.me/DrankWithdrawls"
+            "Telegram": "t.me/Setinal"
         }
         self.alises = [
             "Jerry#1500",
