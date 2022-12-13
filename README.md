@@ -5,10 +5,10 @@ class Leqked(ReadMe):
     "/Leqked/Leqked/README.md"
 
     def __init__(self):
-        self.username = "setinal or Leqked"
+        self.username = "jixbtc or jix"
         self.contacts = {
-            "Discord": "setinal#1337",
-            "Telegram": "t.me/Setinal"
+            "Discord": "jixbtc#1337",
+            "Telegram": "t.me/jixbtc"
         }
         self.alises = [
             "Jerry#1500",
