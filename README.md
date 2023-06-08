@@ -7,11 +7,11 @@ class Leqked(ReadMe):
     def __init__(self):
         self.username = "curbside or jix"
         self.contacts = {
-            "Discord": "curbside#1337",
+            "Discord": "extortion#1337",
             "Telegram": "t.me/curbside"
         }
         self.alises = [
-            "jixbtc#1337",
+            "extortion#1337",
             "curbside#1337",
         ]
         self.location = "Unknown"
