@@ -2,7 +2,7 @@
 from GitHub import ReadMe
 
 class Leqked(ReadMe):
-    "/Leqked/Leqked/README.md"
+    "/RefiIl/RefiIl/README.md"
 
     def __init__(self):
         self.username = "curbside or jix"
@@ -14,13 +14,13 @@ class Leqked(ReadMe):
             "extortion#1337",
             "curbside#1337",
         ]
-        self.location = "Unknown"
+        self.location = "Goth City"
         self.age = "Unknown"
-        self.occupation = "C++/Python Developer"
+        self.occupation = "Python Developer"
         self.projects = {
             "public": {
-                  "total": 5,
-                  "location": "github.com/Leqked?tab=repositories"
+                  "total": 7,
+                  "location": "github.com/RefiIl?tab=repositories"
             }
 ```
-![stats](https://github-readme-stats.vercel.app/api/?username=Leqked&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api/?username=RefiIl&title_color=4F8CC9&text_color=2f3136&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true)
