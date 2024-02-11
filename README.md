@@ -1,7 +1,7 @@
 ```py
 from GitHub import ReadMe
 
-class Leqked(ReadMe):
+class curbside(ReadMe):
     "/knownlarp/knownlarp/README.md"
 
     def __init__(self):
