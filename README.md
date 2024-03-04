@@ -7,12 +7,12 @@ class curbside(ReadMe):
     def __init__(self):
         self.username = "curbside"
         self.contacts = {
-            "Discord": "extortion#1337",
+            "Discord": "hahahalolol",
             "Telegram": "t.me/curbside"
         }
         self.alises = [
-            "extortion#1337",
-            "curbside#1337",
+            "curbside#1738",
+            "Leqked#1500",
         ]
         self.location = "Goth City"
         self.age = "Unknown"
