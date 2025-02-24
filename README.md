@@ -7,19 +7,19 @@ class curbside(ReadMe):
     def __init__(self):
         self.username = "curbside"
         self.contacts = {
-            "Discord": "hahahalolol",
+            "Discord": "",
             "Telegram": "t.me/curbside"
         }
         self.alises = [
-            "curbside#1738",
+            "curbside#1337",
             "Leqked#1500",
         ]
-        self.location = "Goth City"
+        self.location = "Starlink"
         self.age = "Unknown"
         self.occupation = "Python, HTML, Js & Go Developer"
         self.projects = {
             "public": {
-                  "total": 7,
+                  "total": 0,
                   "location": "github.com/knownlarp?tab=repositories"
             }
 ```
